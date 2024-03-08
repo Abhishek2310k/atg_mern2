@@ -1,0 +1,11 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    .login-form {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+}

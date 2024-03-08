@@ -1,0 +1,12 @@
+.personel {
+    .individual_post_form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        form {
+            display: flex;
+            // flex-direction: column;
+        }
+    }
+}

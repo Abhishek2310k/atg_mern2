@@ -1,0 +1,11 @@
+.signup {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    .sign-up-form {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+}
